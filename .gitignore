@@ -1,0 +1,16 @@
+# Backend build files
+online-auction-backend/target/
+
+# Frontend build files
+online-auction-frontend/node_modules/
+online-auction-frontend/build/
+
+# Protect real backend secrets
+online-auction-backend/src/main/resources/application.properties
+
+# Common
+.env
+*.log
+.idea/
+.vscode/
+.DS_Store

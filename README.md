@@ -189,32 +189,34 @@ mvn spring-boot:run
 ---
 
 ### Frontend Setup
+
 ```bash
 cd online-auction-frontend
 npm install
 npm run dev
+```
 
+---
 
-```bash
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](./screenshots/home.png)
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Buyer Dashboard
-![Buyer Dashboard](screenshots/buyer-dashboard.png)
+![Buyer Dashboard](./screenshots/buyer-dashboard.png)
 
 ### Seller Dashboard
-![Seller Dashboard](screenshots/seller-dashboard.png)
+![Seller Dashboard](./screenshots/seller-dashboard.png)
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### Auction Details
-![Auction Details](screenshots/auction-details.png)
+![Auction Details](./screenshots/auction-details.png)
 ```
 
 ---
